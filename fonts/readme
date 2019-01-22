@@ -1,1 +1,11 @@
+Instructions
+1 Copy the "Fonts" files and CSS files to your website CSS folder. 
+2 Add the CSS link to your website source code on header. <head> 
+...
 
+<link rel="stylesheet" type="text/css" href="your_website_domain/css_root/flaticon.css"> 
+...
+
+</head> 
+3Use the icon class on "display: inline" elements: 
+Use example: <i class="flaticon-airplane49"></i> or <span class="flaticon-airplane49"></span> 
